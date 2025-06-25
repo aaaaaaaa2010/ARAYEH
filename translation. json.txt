@@ -1,0 +1,6 @@
+{
+  "welcome": {
+    "fa": "به آرایه خوش آمدی!",
+    "en": "Welcome to Arayeh!"
+  }
+}
