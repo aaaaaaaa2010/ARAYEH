@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html lang="fa">
-<head>
-  <meta charset="UTF-8">
-  <title>Arayeh Demo</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <h1>به آرایه خوش آمدی!</h1>
-  <p>Welcome to Arayeh — this is a GitHub Pages test.</p>
-</body>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Arayeh</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>سلام دنیا! این آرایه‌ست ✨</h1>
+  </body>
 </html>
