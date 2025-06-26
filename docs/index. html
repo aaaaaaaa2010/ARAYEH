@@ -1,16 +1,4 @@
 <!DOCTYPE html>
-<html>
- <base href="/ARAYEH/">
-  <head>
-    <meta charset="UTF-8">
-    <title>Arayeh</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <h1>سلام دنیا! این آرایه‌ست ✨</h1>
-  </body>
-</html>
-<!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
   <meta charset="UTF-8" />
